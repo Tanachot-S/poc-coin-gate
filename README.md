@@ -1,2 +1,2 @@
 # poc-coin-gate
-for poc coin gate payment gateway (for pay crypto)
+for poc coin gate payment gateway (for pay with crypto)
